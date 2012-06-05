@@ -1,0 +1,16 @@
+{
+	"category" : "PasswordHashingFFI",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CryptLinuxFFI",
+	"pools" : [
+		 ],
+	"super" : "ExternalStructure",
+	"traitcomposition" : "{}",
+	"type" : "normal" }
